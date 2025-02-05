@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muathe Amer Mahdi</h1>
 <h3 align="center">A dedicated Back-End Developer from Toronto, Canada, on a mission to Full-Stack mastery! 🚀</h3>
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NnYmh1ZGkxdDJsY2E5ejU3MzR0bnd6aWs1Ymx5M2cwbnF2cG1qcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBlNDJyNXliNG0xbm8yOWpqY2s4MjVuZThlaXRkamRndncwZjJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDdBdU3rJhfutZ2qbR/giphy.gif">
 
 - 🔭 I’m currently working on **creating an employee management web application.**
 - 💬 Ask me about **application development with Spring Boot and automation testing with Selenium!**
@@ -23,3 +23,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
