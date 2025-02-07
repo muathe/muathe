@@ -9,6 +9,9 @@
 
  - 📫 How to reach me **muathe.mahdi@alumni.utoronto.ca**
 
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBlNDJyNXliNG0xbm8yOWpqY2s4MjVuZThlaXRkamRndncwZjJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDdBdU3rJhfutZ2qbR/giphy.gif">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muathe amer mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muathe amer mahdi" height="30" width="40" /></a>
