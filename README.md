@@ -7,9 +7,9 @@
 🔭 I’m currently working on **creating an employee management web application.**
 
 
- - 💬 Ask me about **application development with Spring Boot and automation testing with Selenium!**
+💬 Ask me about **application development with Spring Boot and automation testing with Selenium!**
 
- - 📫 How to reach me **muathe.mahdi@alumni.utoronto.ca**
+📫 How to reach me **muathe.mahdi@alumni.utoronto.ca**
 
 
 <h3 align="left">Connect with me:</h3>
