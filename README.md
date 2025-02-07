@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Muathe Amer Mahdi</h1>
 <h3 align="center">A dedicated Back-End Developer from Toronto, Canada, on a mission to Full-Stack mastery! 🚀</h3>
 
+<img align="right" alt="Coding" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBlNDJyNXliNG0xbm8yOWpqY2s4MjVuZThlaXRkamRndncwZjJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDdBdU3rJhfutZ2qbR/giphy.gif">
+
 
  - 🔭 I’m currently working on **creating an employee management web application.**
 
  - 💬 Ask me about **application development with Spring Boot and automation testing with Selenium!**
 
  - 📫 How to reach me **muathe.mahdi@alumni.utoronto.ca**
-
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBlNDJyNXliNG0xbm8yOWpqY2s4MjVuZThlaXRkamRndncwZjJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDdBdU3rJhfutZ2qbR/giphy.gif">
 
 
 <h3 align="left">Connect with me:</h3>
